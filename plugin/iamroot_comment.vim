@@ -18,7 +18,7 @@
 "         http://iamroot.org
 " =======================================================
 
-let s:teamName = "IAMROOT-12D"
+let s:teamName = "IAMROOT-12CD"
 let s:teamLink = "http://www.iamroot.org"
 let s:authors = {
     \  1: { 'att': 1, 'name': '곽희범', 'email': 'andrew@norux.me' },

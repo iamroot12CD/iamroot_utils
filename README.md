@@ -1,4 +1,4 @@
-## Iamroot ARM Kernel 분석 12차 D조
+## Iamroot ARM Kernel 분석 12차 CD조
 
 [iamroot 홈페이지](http://www.iamroot.org)
 
