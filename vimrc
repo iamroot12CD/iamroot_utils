@@ -182,7 +182,7 @@ nmap <F4> "+p
 nmap <F5> :call IC_AnalyzingCode() <cr>
 nmap <F6> :call IC_DailySummary() <cr>
 nmap <F7> :call IC_FileSummary() <cr>
-nmap <F8> A<tab>/* IAMROOT-12D: 
+nmap <F8> A<tab>/* IAMROOT-12CD: 
 
 " 커널분석용 설정
 nmap <F9> :set ts=8 sw=8 sts=8 <cr>
