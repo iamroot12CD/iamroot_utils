@@ -1,3 +1,6 @@
+"============ kernel source 경로 ===========
+let kernel_src_home=$HOME."/git/iamroot/linux"
+
 set nu
 set ai
 set si
@@ -71,11 +74,11 @@ nmap ,0 :b!0<CR>	  " Switch to File Buffer #0
 
 
 "============ ctags, scope 경로 ===========
-set tags+=$HOME/git/linux/tags
+exe "set tags+=" . kernel_src_home . "/tags"
+exe "cscope add " . kernel_src_home . "/cscope.out"
 
 set csprg=/usr/bin/cscope
 set nocsverb
-cs add $HOME/git/linux/cscope.out
 set csverb
 set csto=0
 set csre
