@@ -50,6 +50,6 @@ $ ./install.sh
 
 * [F7] File Summary: 파일의 전체적인 요약, 설명을 위한 주석입니다.
 
-* [F3] Select mode copy to clipboard: 선택 영역을 클립보드로 복사합니다.
+* [F3] Select mode copy to clipboard: 선택 영역을 클립보드로 복사합니다.(vim-gtk 설치 필수)
 
-* [F4] Put the text from clipboard: 클립보드 내용을 붙여넣기 합니다.
+* [F4] Put the text from clipboard: 클립보드 내용을 붙여넣기 합니다.(vim-gtk 설치 필수)
